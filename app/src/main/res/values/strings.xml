@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="title_home">Дом</string>
+    <string name="title_scan">Сканирование</string>
+    <string name="title_more">Еще</string>
+    <string name="scan_button">Сканировать</string>
+    <string name="scan_message">Наведите камеру на QR код</string>
+
+    <string name="close">Закрыть</string>
+    <string name="error_title">Ошибка</string>
+    <string name="error_message_1">Сканируемый объект не соответствует одному из пунктов:</string>
+    <string name="error_message_2">1. Сканируемый объект не является QR кодом</string>
+    <string name="error_message_3">2. QR код поврежден</string>
+    <string name="error_message_4">3. Сканирующее устройство не соответствует требованиям</string>
+
+    <string name="home_title">Добро пожаловать!</string>
+    <string name="home_text">Это приложение для сканирования и распознвания QR кодов. Для этого нажмите на кнопку "Сканирование" в нижнем меню. Приятного использования.</string>
+</resources>
